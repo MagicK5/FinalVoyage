@@ -1,0 +1,19 @@
+{
+  "name": "finalvoyage",
+  "version": "1.0.0",
+  "description": "noob project",
+  "main": "load&regist.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MagicK5/FinalVoyage.git"
+  },
+  "author": "Magic_K5",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MagicK5/FinalVoyage/issues"
+  },
+  "homepage": "https://github.com/MagicK5/FinalVoyage#readme"
+}
