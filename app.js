@@ -6,7 +6,7 @@ var mongoose = require('mongoose');
 var session = require('express-session');
 var MongoStore = require('connect-mongo')(session);
 // 连接数据库
-var dbUrl = 'mongodb://localhost/express-demo';
+var dbUrl = 'mongodb://172.21.2.236:27017/190110910834';
 mongoose.Promise = global.Promise;
 mongoose.connect(dbUrl,{useMongoClient:true});
 
